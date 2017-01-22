@@ -3,6 +3,9 @@ Newstuff1b!
 1
 2
 3
+
+row from feature2
+
 555
 4
 666
